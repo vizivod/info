@@ -4,6 +4,7 @@
 
 @Hacktoria CTF Team member
 
+Digital Overdose Autumn November 2022: Rank  53 of 692
 Last Hunter Standing OSINT CTF - Infosec United & Hacktoria - Status: Completed
 Hack the Boo: Cybersecurity Awareness Month 2022 - HackTheBox - Rank: 1994 
 
@@ -32,6 +33,8 @@ Metasploitable: Contains the knowledge to use Metasploit
 eJPT — Certification - January 2022 - eLearnSecurity Junior Penetration Tester Practical Certification
 
 Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - Udemy
+
+Penetration Testing Basics Learning Path - INE
 
 AWS Certified Solutions Architect Certification Course (SAAC02) - Adrian Cantrill
 
