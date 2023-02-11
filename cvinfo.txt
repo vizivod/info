@@ -4,6 +4,7 @@
 
 @Hacktoria CTF Team member
 
+TraceLabs Search Party Global OSINT CTF - Feb 11th 2023 - Team: HACKTORIA_III - Rank: 92
 HEXA OSINT CTF 2023 - January 27th-29th - 15th Place 
 Antisyphon Turkey Challenge Mini CTF November 21st, 2022
 Digital Overdose Autumn November 2022: Rank  53 of 692
